@@ -1,0 +1,2 @@
+# exercicio-ajuda
+ajudar
